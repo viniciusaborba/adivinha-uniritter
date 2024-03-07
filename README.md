@@ -2,6 +2,13 @@
 
 Ester repositório contém o código do Jogo Adivinha (válido para a primeira parte da A3)
 
+## Participantes
+
+```bash
+  - Vinícius Alves Borba, RA: 1292312452
+  - Felipe dos Santos Oliveira, RA: 12923113662
+```
+
 ## 🚀 How can I set up the frontend?
 
 First of all, clone the project in your computer.
