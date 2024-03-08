@@ -28,7 +28,7 @@ export default function Result() {
           alt={team.slug}
           width={200}
           height={200}
-          src={team.url!}
+          src={team.url}
           className="mx-auto mt-5"
         />
 
